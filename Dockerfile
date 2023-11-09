@@ -52,7 +52,7 @@ RUN apk add --no-cache \
     zlib-dev \
     libzip-dev \
     wget \
-    unixODBC-devel
+    unixodbc-dev
     
 ###########################################################################
 # Install Support of MSSQL
