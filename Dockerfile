@@ -51,7 +51,8 @@ RUN apk add --no-cache \
     rsync \
     zlib-dev \
     libzip-dev \
-    wget
+    wget \
+    unixODBC-devel
     
 ###########################################################################
 # Install Support of MSSQL
